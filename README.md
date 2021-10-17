@@ -5,7 +5,7 @@
 
 ## Download the Application
 
-<a href="https://drive.google.com/file/d/1l7_TOtF39wP9275Qn602oE_Fbzkt09tf/view?usp=sharing"><img src="https://playerzon.com/asset/download.png" width="200"></img>Click the link</a>
+<a href="https://drive.google.com/file/d/18_yTJD2rWMshpuyJYq6WihAi4Zqwmwzh/view?usp=sharing"><img src="https://playerzon.com/asset/download.png" width="200"></img>Click the link</a>
 
 
 ## Basic Overview
