@@ -3,11 +3,10 @@
   <img src="https://github.com/jerichoi224/MoneyTracker/blob/master/media/cover.png">
 </h1>
 
-Application for Tracking Daily Money Usage in hope of helping me save money, made with Flutter.
-[Available in Google Play Store](https://play.google.com/store/apps/details?id=com.kahluabear.money_tracker)
+## Download the Application
 
-### Development Status
-I've added everything I wanted to add for my personal need which includes the functions and support for Dollars and Korean Won. If requested, I can add more currency, but unless I come up with more ideas on functionalities or find bugs while using it, the development will be on pause for now. 
+<a href="https://drive.google.com/file/d/1l7_TOtF39wP9275Qn602oE_Fbzkt09tf/view?usp=sharing"><img src="https://playerzon.com/asset/download.png" width="200"></img>Click the link</a>
+
 
 ## Basic Overview
 The Basic Idea is that you are able to decide how much you want to be using every day on average, and the app will let you keep track of how much you've spent/saved daily and overall.
@@ -27,6 +26,7 @@ The Setting Menu lets you change the daily limit, the system UI, and manage subs
 
 The Subscription Management lets you register subscription payments for monthly or yearly payments. On the day of payment, a spending entry will be automatically created.
 
-### Open Source!
+## Novelty of the Project
 
-This app, while it was built for my own use, I ended up learning alot on how to build apps using Flutter, or at least alot of the basic functionalities (no fancy libraries or APIs or network use). And I think this would give help on people learning Flutter. I use alot of the basic functionalities that are crucial in many apps including, but not limited to saving/loading data to shared preferences and database, using splash screens, scroll view layout, non-scroll view navigation, etc. Hopefully this is useful for whoever ends up here!
+1. Helps to regulate your spending
+2. Great for college/school students who find it hard to manage money.
